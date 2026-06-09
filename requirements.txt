@@ -1,0 +1,12 @@
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.9
+seaborn==0.13.2
+duckdb==1.5.2
+scikit-learn==1.7.2
+scorecardpy==0.1.9.7
+joblib==1.5.3
+openpyxl==3.1.5
+jupyter==1.1.1
+scipy==1.15.3
+statsmodels==0.14.6

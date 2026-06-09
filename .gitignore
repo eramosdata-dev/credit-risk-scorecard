@@ -1,0 +1,25 @@
+# Dataset — demasiado grande y no se comparte
+data/raw/
+data/processed/
+
+# Modelo serializado
+models/*.pkl
+
+# Entorno virtual — cada uno instala el suyo
+.venv/
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
