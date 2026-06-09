@@ -99,6 +99,26 @@ pip install -r requirements.txt
 | Alto (600-650) | 6.1% | 35.0% |
 | Crítico (<600) | 1.9% | 51.2% |
 
+## Visualizaciones
+
+### Distribución del target
+![Distribución del target](reports/figures/02_target_distribucion.png)
+
+### Tasa de default por segmento de edad
+![Default por edad](reports/figures/04_default_por_edad.png)
+
+### Tasa de default por utilización de crédito
+![Default por utilización](reports/figures/06_default_por_utilizacion.png)
+
+### Tasa de default por historial de mora
+![Default por mora](reports/figures/07_default_por_mora90.png)
+
+### Curva ROC del modelo
+![Curva ROC](reports/figures/10_curva_roc.png)
+
+### Distribución de credit scores
+![Distribución scores](reports/figures/11_distribucion_scores.png)
+
 ## Stack tecnológico
 
 | Herramienta | Uso |
